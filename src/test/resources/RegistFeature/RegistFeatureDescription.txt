@@ -1,0 +1,14 @@
+Currently in the application of quickstock all registrations must be made by company administrators. 
+Due to the high number of users of the companies, it is necessary a feature so that users without an account can regist on the platform.
+In order to implement this functionality, a token will be associated with each company so that users can register and be automatically associated with the companies.
+
+Therefore, in order to register, you will need to fill out a form with 4 fields:
+- email: individual identification of each user;
+- password: password for protecting user accounts;
+- password confirmation: confirmation of the previously entered password;
+- token: token of the user's company.
+
+When the fields are inserted correctly, the account is created for the user and is redirected to the application. 
+When any of the fields is invalid, the user will be notified with the problem in their registration.
+
+To test this functionality, 1 test will be created.

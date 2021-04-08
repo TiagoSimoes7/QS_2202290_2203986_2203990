@@ -1,0 +1,7 @@
+
+In order for a company to be able to organize its products, it is important that they are classified by their type. So this functionality aims to reformulate the attributes of the company's products. 
+With this functionality, is inserted the attribute "Product type", which can only assume predefined values.
+These predefined values can be changed, with the possibility of create, edit and delete.
+To confirm that all the refactor was successful, the view of the product details, the create and the edit product features are also tested
+
+To test the "Product type" functionality, 7 tests will be created and all will be done through a authenticated user(Company administrator or manager).

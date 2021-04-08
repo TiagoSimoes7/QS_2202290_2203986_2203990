@@ -1,0 +1,7 @@
+This functionality is used so that the company can store its information in the application.
+So when an administrator or manager of the company needs it, they can consult this information directly in the Manage Company page.
+This information can be name, e-mail, phone number, address, country, district and postal code.
+
+To test the “Manage Company Info” functionality, 2 tests will be created.
+The first one will be done through an authenticated user and its goal is to test the visualization of company information.
+The second one will test the edition of company information and needs to be through an administrator type user (Company Administrator).
