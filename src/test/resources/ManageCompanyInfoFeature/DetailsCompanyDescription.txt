@@ -5,3 +5,5 @@ This information can be name, e-mail, phone number, address, country, district a
 To test the “Manage Company Info” functionality, 2 tests will be created.
 The first one will be done through an authenticated user and its goal is to test the visualization of company information.
 The second one will test the edition of company information and needs to be through an administrator type user (Company Administrator).
+
+###AAAA
